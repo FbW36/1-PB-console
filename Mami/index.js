@@ -1,15 +1,15 @@
 console.log("this is an exercise in console logging");
-var myvar = "This is the value";
+let mylet = "This is the value";
 
-var firstName = "Mami";
-var lastName = "Kurokawa";
+let firstName = "Mami";
+let lastName = "Kurokawa";
 console.log(firstName, lastName);
 
-var myName = "Mami Kurokawa";
-var myCity = "Berlin";
-var myJob = "none";
-var myHeight = "155cm";
-var myBloodtype = "A";
+let myName = "Mami Kurokawa";
+let myCity = "Berlin";
+let myJob = "none";
+let myHeight = "155cm";
+let myBloodtype = "A";
 console.log(myName, myCity, myJob, myHeight, myBloodtype);
 console.log(
   "my name is " +
